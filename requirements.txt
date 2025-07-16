@@ -1,0 +1,9 @@
+pymysql
+pyodbc
+agent-squad[all]==1.0.2
+asyncmy==0.2.10
+fastapi
+uvicorn
+gunicorn
+tiktoken
+numpy==2.2.3
